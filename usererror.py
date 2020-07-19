@@ -12,7 +12,7 @@ opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 
 def main():
     try:
-        page = 'https://thenew.show/feed/podcast'
+        page = 'https://feeds.fireside.fm/usererror/rss'
         sourceCode = opener.open(page).read()
         #print sourceCode
 
@@ -24,6 +24,8 @@ def main():
                 if '+000' in cleanedquestions:
                     pass
                 elif '[' in cleanedquestions:
+                    pass
+                elif '-\d' in cleanedquestions:
                     pass
                 else:
                     print cleanedquestions
