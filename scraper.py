@@ -20,19 +20,31 @@ def main():
             goodquestions = re.findall(r'\d\d:\d\d:\d\d\s(.*)<',sourceCode)
 
             for goodquestion in goodquestions:
-                if '&#8217;' in goodquestion:
-                    cleangoodquestion = re.finditer(r'(.*)&#8217;(.*)',goodquestion)
-                    #cleanedupquestion =cleanedquestion.group(1),cleanedquestion.group(2)
-                    for cleanedquestion in cleangoodquestion:
-                        print cleanedquestion.group(1),cleanedquestion.group(2)
-                else:
-                    # if '+000' in goodquestion:
-                    #     pass
-                    # elif '[' in goodquestion:
-                    #     pass
-                    # else:
-                    #     print goodquestion
+                cleanedquestions = goodquestion.replace("&#8217;", "")
+                #for cleanquestion in cleanedquestions:
+                if '+000' in cleanedquestions:
                     pass
+                elif '[' in cleanedquestions:
+                    pass
+                else:
+                    print cleanedquestions
+
+
+                # if '&#8217;' in goodquestion:
+                #     #cleangoodquestion = re.finditer(r'(.*)&#8217;(.*)',goodquestion)
+                #     #print cleangoodquestion
+                #     for cleanedquestion in cleangoodquestion:
+                #         cleanedquestion.relace('&#8217;', "'")
+                #         #print cleanedquestion.group(1)
+                #         #print cleanedquestion.group(2)
+                # else:
+                #     # if '+000' in goodquestion:
+                #     #     pass
+                #     # elif '[' in goodquestion:
+                #     #     pass
+                #     # else:
+                #     #     print goodquestion
+                #     pass
 
         except Exception, e:
             print str(e)
