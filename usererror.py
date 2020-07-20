@@ -29,6 +29,9 @@ def main():
                     pass
                 elif re.search(r'-\d', dblcleanedquestions):
                     pass
+                elif re.search('&quot;', dblcleanedquestions):
+                    doublecleanlines = dblcleanedquestions.replace("&quot;", "\"")
+                    print doublecleanlines
                 else:
                     print dblcleanedquestions
                     #sort <file name> | uniq
