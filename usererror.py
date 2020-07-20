@@ -20,20 +20,19 @@ def main():
             goodquestions = re.findall(r'\d\d:\d\d:\d\d\s(.*)<',sourceCode)
             for goodquestion in goodquestions:
                 cleanedquestions = goodquestion.replace("&#8217;", "")
-                dblcleanedquestions = cleanedquestions.replace("&#39;", "")
-                if '+000' in dblcleanedquestions:
+                if '+000' in cleanedquestions:
                     pass
-                elif '[' in dblcleanedquestions:
+                elif '[' in cleanedquestions:
                     pass
-                elif '-\d' in dblcleanedquestions:
+                elif '-\d' in cleanedquestions:
                     pass
-                elif re.search(r'-\d', dblcleanedquestions):
+                elif re.search(r'-\d', cleanedquestions):
                     pass
-                elif re.search('&quot;', dblcleanedquestions):
-                    doublecleanlines = dblcleanedquestions.replace("&quot;", "\"")
+                elif re.search('&quot;', cleanedquestions):
+                    doublecleanlines = cleanedquestions.replace("&quot;", "\"")
                     print doublecleanlines
                 else:
-                    print dblcleanedquestions
+                    print cleanedquestions
                     #sort <file name> | uniq
                     
         except Exception, e:
