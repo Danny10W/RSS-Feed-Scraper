@@ -28,9 +28,13 @@ def main():
                     pass
                 elif re.search(r'-\d', cleanedquestions):
                     pass
+                elif re.search('&#39;', cleanedquestions):
+                    triplecleanlines = cleanedquestions.replace("&#39;", "\'")
+                    print triplecleanlines                      
                 elif re.search('&quot;', cleanedquestions):
                     doublecleanlines = cleanedquestions.replace("&quot;", "\"")
                     print doublecleanlines
+                  
                 else:
                     print cleanedquestions
                     #sort <file name> | uniq
