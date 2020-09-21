@@ -7,6 +7,9 @@ sed -i 's/\#AskError\: //g' Combined.txt
 sed -i 's/\#Askerror\: //g' Combined.txt
 sed -i 's/#AskError //g' Combined.txt
 sed -i 's/AskError: //g' Combined.txt
+sed -i 's/<br>//g' Combined.txt
 sort Combined.txt | uniq > NoRepeats.txt
 sed '1d' NoRepeats.txt > FinalList.txt
+sed -i 's/ *$//' FinalList.txt
+sed -in '/\?$/!d' FinalList.txt
 rm NoRepeats.txt Combined.txt NewShowQuestions.txt UserErrorQuestions.txt

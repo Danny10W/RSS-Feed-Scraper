@@ -1,5 +1,3 @@
-All property is theft
-Always learning new things
 Are all VPN providers as shady as they seem?
 Are the Distrowatch rankings worth the pixels they are rendered on?
 Are there any things that you are irrationality frugal/tight/stingy with?
@@ -8,21 +6,12 @@ Are we living in a simulation?
 Are you willing to alienate your friends and family in an attempt to convince them of your convictions?
 Bath or shower?
 Beer/cider: warm or flat?
-Bespoke apps vs universal packages
 Can Linux on the desktop ever succeed without a full ecosystem?
 Can mobile Linux ever succeed?
 Can you just jump right in to each type of task, or do you have a ritual before?
 Can you still appreciate the songs or work of someone who turns out to be a baddy?
-Changing software and user backlash
-Chris nearly died<br>
-Collecting our own data
-Computer sustainability
-Conspiracy theories
-Distro choice
-Distro User Numbers
 Do any songs trigger you to cry?
 Do April Fool’s Day tech “jokes” annoy you?
-Dockless bike sharing<br>
 Does the pronunciation of words like "Ubuntu" matter in the slightest?
 Does your car have a name?
 Dogs or cats?
@@ -31,10 +20,10 @@ Do people really want all the drama to calm down?
 Do you believe in ghosts?
 Do you believe in karma?
 Do you cheat in video games?
-Do you ever get imposter syndrome? 
+Do you ever get imposter syndrome?
 Do you ever use default folders like documents, pictures, music etc?
 do you get annoyed by people who use "last seen recently"?
-Do you go to sleep in silence, or listen to stuff?<br>
+Do you go to sleep in silence, or listen to stuff?
 Do you have a 'Sliding Doors' moment in your past?
 Do you need to structure your free time in order not to waste it?
 Do you own a 2d printer? What was the last thing you printed out?
@@ -43,11 +32,7 @@ Do you prefer reading physical books or digital books and why?
 Do you read everything or follow all the people?
 do you share any accounts or passwords with your partner?
 Do you swear in front of your family and, if not, why not?
-Dumb phone trope
-Email etiquette
 Folding phones: dumb idea or dumbest idea?
-FOSS Rivalry
-Free Desktop
 Has there been anything in your life that you regret starting but never finishing?
 Has your music taste changed significantly compared to being a teenager?
 Have you ever been banned from a community?
@@ -57,7 +42,6 @@ Have you ever met your own doppelganger?
 Have you ever struggled with the paralysis of choice?
 Have you ever wanted to succeed at something, people havent supported you, and its made you want to succeed even more?
 Have you thought about moving to the USA?
-Home Automation
 Hoodies: zip or no zip?
 How can you be remembered in a thousand years without being evil?
 How do I convince my employer to adopt open source software?
@@ -105,10 +89,6 @@ if you witness a petty crime, should you intervene?
 Ignore, mute, or block?
 In 20 years time, with all its tech, will we be happier?
 In an ever-shrinking world, should we drop tradition and use the easiest and most logical spellings and pronunciations?
-Independent children</p><p>Special Guest: Ell Marquez.
-Internet drama and Linux
-Intro
-iOS vs Android
 Is art overpriced?
 Is free will an illusion?
 Is it better to ask permission or beg forgiveness?
@@ -120,7 +100,7 @@ Is it time to give Microsoft the benefit of the doubt on their Linux love?
 Is it time to stop ignoring the vast silent majority of Linux users?
 Is it time to stop making new Linux distros?
 Is it wrong to take the blame when it's not your fault?
-Is Linux on Windows the real future of Linux on the desktop?<br>
+Is Linux on Windows the real future of Linux on the desktop?
 Is Linux (or FOSS) the vegan option within software?
 Is recycling worth the effort?
 Is social media a good thing?
@@ -130,19 +110,10 @@ Is there any food you won't eat? Even in an emergency?
 Is there any software which is feature complete that you use on a regular basis?
 Is there anything you close your eyes while doing that other people might think is odd?
 Is there more good or bad in the world?
-Is the Web irrelevant now
 Is turkey dinner really worth the effort?
 Is universal basic income a good idea?
 It’s common for someone to have only used Windows or Mac, but what traits do you think people who have only used Linux would have?
-Living for now vs planning for the future
-Old vs new Web
-On demand vs live streaming
 Pain for principles - where's your threshold?
-Phones are big and stupid now</p><p>Special Guest: Chris Fisher.
-Physical media vs streaming
-Pros and cons of breeding
-RISC-V
-Seeing through the facade of Linux
 Should all drugs be legal?
 Should humans spend billions on space exploration while so many people live in poverty?
 Should we apply a git-style approach to improve laws?
@@ -150,15 +121,10 @@ Should we refuse to take money from anyone we may object to?
 Should you prepare for the apocalypse?
 Should you “yes, and” life?
 Somewhere there’s a sliding scale in your mind of when a partner deserves to be in on a choice. Where does that begin and why?
-Spoopy month? Y/N_
-Teaching kids to code
-The best tech news stories of the year
-The importance of having things in common with your life partner
 Thoughts on Dungeons and Dragons?
 Thoughts on meditation and mindfulness?
 Top bunk or bottom bunk?
-Travel is good for the soul<br>
-What are the best and worst parts of living the dream?<br>
+What are the best and worst parts of living the dream?
 What are you afraid of?
 What are you going to call this show when its no longer new?
 What are your favourite and least favourite memes?
@@ -188,7 +154,6 @@ What is your ideal phone display size?
 What is your worst or most expensive destroyed equipment event?
 What kind of printer cartridges do you buy?
 What Linux-related opinion makes you completely disregard anything that person says?
-What makes you cringe?</p><p>Links:</p><ul><li><a href="https://www.youtube.com/watch?v=AoeeLl5FC-M" title="The Art of Slide Design - Melinda Seckington" rel="nofollow">The Art of Slide Design - Melinda Seckington</a></li>
 What one application is completely missing on Linux?
 What one meal could you live on for the rest of your life?
 What’s in your conference bag?
@@ -197,7 +162,7 @@ What’s missing from Linux and open source conferences?
 What’s something you own that has a computer in it that you wish didn’t?
 What's the best bargain you've ever acquired?
 What's the best decade for music?
-What's the best movie you've only seen once?<br>
+What's the best movie you've only seen once?
 Whats the best smell and whats the worst smell?
 What's the best thing to happen in IT since you started using computers?
 What’s the best way to organise the finances for a FOSS project?
@@ -241,7 +206,7 @@ Why don't you believe in God or follow a religion?
 Why do you prefer Twitter over Facebook?
 Why is hardware support so terrible?
 Why isn’t AppImage part of the larger universal packaging discussion?
-Will desktop Linux ever make money? 
+Will desktop Linux ever make money?
 Will polarised politics last forever?
 With better technology, why don’t we necessarily see better art?
 Without security through obscurity, would Linux make for a more secure desktop than Windows etc?
